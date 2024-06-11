@@ -14,17 +14,23 @@ Welcome to the Backend .NET Developer Roadmap! This repository is a curated list
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
 - [Code With Saad](https://www.youtube.com/playlist?list=PLZyQU-WOzZF1XNjL5mIqSv0HFnAlfQ8KQ)
+- [Pice Of Cake Dev](https://www.youtube.com/playlist?list=PLfHpC6JZ316dbrFn-jAwMBZwMqkcAabWB)
 
 ### Object-Oriented Programming (OOP)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAfq0EsDHH4YemBAd6G-H75)
 - [Metigator from 7 -> 22](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
 - [Code With Saad](https://www.youtube.com/playlist?list=PLZyQU-WOzZF3s6vZ5ekPcJ1w-7C4Iz2S5)
+- [Pice Of Cake Dev](https://www.youtube.com/playlist?list=PLfHpC6JZ316f6YXKyux0dHjJXA0Kg38p7)
 
 ## Phase 2: Advanced
 
 ### C# Collections (Generic/Non-generic)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhBbnebNayUDYlQJRBKwZKlo)
 - [Metigator from 23 -> 46](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
+- [Pice Of Cake Dev](https://www.youtube.com/playlist?list=PLfHpC6JZ316ciHMql4eXK1zfzuttajevf)
+
+### C# Delegates & Lambdas
+-  [Pice Of Cake Dev](https://www.youtube.com/playlist?list=PLfHpC6JZ316dwb3MN8W6XuBuyaTA8RVaW)
 
 ### Algorithms
 - [Adel Nasim from 24 -> 37](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
